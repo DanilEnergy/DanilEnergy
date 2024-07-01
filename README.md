@@ -4,7 +4,7 @@
  <b>Name:</b> Danil
 </li>
 <li>
-<b>Loves:</b> anime, films
+<b>Loves:</b> Anime, films
 </li>
 <li>
 <b>Gender:</b> Tatarin
