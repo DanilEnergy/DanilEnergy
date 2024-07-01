@@ -1,16 +1,23 @@
-## Hi there 👋
+<div>
+<h2 align="center"> 💖 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 💖 </h2>
+<li>
+ <b>Name:</b> Danil
+</li>
+<li>
+<b>Loves:</b> anime, films
+</li>
+<li>
+<b>Gender:</b> Tatarin
+</li>
+<li>
+<b>Hobbys:</b> Programming
+</li>
+<li>
+<b>Working:</b> Samokat
+</li>
+<li>
+ <b>Years old:</b> 18
+</li>
+ <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60"/>
+</div>
 
-<!--
-**DanilEnergy/DanilEnergy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
